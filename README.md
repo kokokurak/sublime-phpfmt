@@ -117,7 +117,7 @@ Prefer using the toggle options at command palette. However you might find yours
  * ReturnNull                        Simplify empty returns.
  * ShortArray                        Convert old array into new array. (array() -> [])
  * SmartLnAfterCurlyOpen             Add line break when implicit curly block is added.
- * SortUseNameSpace                  Organize use clauses by length and alphabetic order.
+ * SortUseNamespace                  Organize use clauses by length and alphabetic order.
  * SpaceAroundControlStructures      Add space around control structures.
  * SpaceAroundExclamationMark        Add spaces around exclamation mark.
  * SpaceBetweenMethods               Put space between methods.
